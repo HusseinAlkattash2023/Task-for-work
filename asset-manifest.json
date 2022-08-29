@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Task-for-work/static/css/main.8ddf205b.css",
+    "main.js": "/Task-for-work/static/js/main.37dd7d40.js",
+    "static/media/person1.jpg": "/Task-for-work/static/media/person1.c5e33259a91f598b385d.jpg",
+    "index.html": "/Task-for-work/index.html",
+    "main.8ddf205b.css.map": "/Task-for-work/static/css/main.8ddf205b.css.map",
+    "main.37dd7d40.js.map": "/Task-for-work/static/js/main.37dd7d40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ddf205b.css",
+    "static/js/main.37dd7d40.js"
+  ]
+}
